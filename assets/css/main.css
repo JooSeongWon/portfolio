@@ -3841,7 +3841,33 @@ input, select, textarea {
 	.slider input[type=radio]:nth-child(4):checked~.bullets>label:nth-child(4){
 		background-color: rgba(0,0,0,0.55);
 	}
-	.slider input[type=radio]:nth-child(1):checked~ul.imgs>li:nth-child(1){
+	.slider input[type=radio]:nth-child(5):checked~.bullets>label:nth-child(5){
+		background-color: rgba(0,0,0,0.55);
+	}
+	.slider input[type=radio]:nth-child(6):checked~.bullets>label:nth-child(6){
+		background-color: rgba(0,0,0,0.55);
+	}
+	.slider input[type=radio]:nth-child(7):checked~.bullets>label:nth-child(7){
+		background-color: rgba(0,0,0,0.55);
+	}
+	.slider input[type=radio]:nth-child(8):checked~.bullets>label:nth-child(8){
+		background-color: rgba(0,0,0,0.55);
+	}
+	.slider input[type=radio]:nth-child(9):checked~.bullets>label:nth-child(9){
+		background-color: rgba(0,0,0,0.55);
+	}
+	.slider input[type=radio]:nth-child(10):checked~.bullets>label:nth-child(10){
+		background-color: rgba(0,0,0,0.55);
+	}
+	.slider input[type=radio]:nth-child(11):checked~.bullets>label:nth-child(11){
+		background-color: rgba(0,0,0,0.55);
+	}
+	.slider input[type=radio]:nth-child(12):checked~.bullets>label:nth-child(12){
+		background-color: rgba(0,0,0,0.55);
+	}
+
+
+		.slider input[type=radio]:nth-child(1):checked~ul.imgs>li:nth-child(1){
 		opacity: 1;
 		transition: 1s;
 		z-index: 1;
@@ -3861,7 +3887,46 @@ input, select, textarea {
 		transition: 1s;
 		z-index: 1;
 	}
-
+	.slider input[type=radio]:nth-child(5):checked~ul.imgs>li:nth-child(5){
+		opacity: 1;
+		transition: 1s;
+		z-index: 1;
+	}
+	.slider input[type=radio]:nth-child(6):checked~ul.imgs>li:nth-child(6){
+		opacity: 1;
+		transition: 1s;
+		z-index: 1;
+	}
+	.slider input[type=radio]:nth-child(7):checked~ul.imgs>li:nth-child(7){
+		opacity: 1;
+		transition: 1s;
+		z-index: 1;
+	}
+	.slider input[type=radio]:nth-child(8):checked~ul.imgs>li:nth-child(8){
+		opacity: 1;
+		transition: 1s;
+		z-index: 1;
+	}
+	.slider input[type=radio]:nth-child(9):checked~ul.imgs>li:nth-child(9){
+		opacity: 1;
+		transition: 1s;
+		z-index: 1;
+	}
+	.slider input[type=radio]:nth-child(10):checked~ul.imgs>li:nth-child(10){
+		opacity: 1;
+		transition: 1s;
+		z-index: 1;
+	}
+	.slider input[type=radio]:nth-child(11):checked~ul.imgs>li:nth-child(11){
+		opacity: 1;
+		transition: 1s;
+		z-index: 1;
+	}
+	.slider input[type=radio]:nth-child(12):checked~ul.imgs>li:nth-child(12){
+		opacity: 1;
+		transition: 1s;
+		z-index: 1;
+	}
 	.slide2{
 		width: 800px;
 		height: 500px;
