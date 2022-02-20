@@ -3968,6 +3968,27 @@ input, select, textarea {
 		font-weight: bold;
 		margin-left: 80px;
 	}
-	img{
-		width: 100%;
+
+	@media(max-width: 320px){
+		.imgs img{
+			width: 300px;
+		}
+
+	@media(max-width: 640px){
+		.imgs li{
+			width: 620px;
+		}		
 	}
+
+	@media(max-width: 1200px){
+		.imgs li{
+			width: 1180px;
+		}
+	}
+
+	@media(max-width: 1800px){
+		.imgs li{
+			width: 1780px;
+		}
+	}
+}
